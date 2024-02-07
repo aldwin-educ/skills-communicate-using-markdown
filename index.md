@@ -1,8 +1,11 @@
 # This is the header for Task 1!
 
 
+## Image
+
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
+## Code Block
 
 ```
 $ git init
@@ -22,3 +25,9 @@ function calc($input) {
 calc($x);
 ?>
 ```
+
+## Task list
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
